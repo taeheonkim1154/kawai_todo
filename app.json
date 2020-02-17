@@ -1,6 +1,7 @@
 {
   "expo": {
-    "name": "Blank Template",
+    "name": "To Do for You",
+    "description": "To Do App with React Native made by Taeheon",
     "slug": "KawaiTodo",
     "privacy": "public",
     "sdkVersion": "36.0.0",
